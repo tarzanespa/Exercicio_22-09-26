@@ -1,0 +1,15 @@
+C:\Users\127408\Desktop\F_3\Exercicio_22-09-26\exercicio_4\bin\Debug\net9.0\exercicio_4.exe
+C:\Users\127408\Desktop\F_3\Exercicio_22-09-26\exercicio_4\bin\Debug\net9.0\exercicio_4.deps.json
+C:\Users\127408\Desktop\F_3\Exercicio_22-09-26\exercicio_4\bin\Debug\net9.0\exercicio_4.runtimeconfig.json
+C:\Users\127408\Desktop\F_3\Exercicio_22-09-26\exercicio_4\bin\Debug\net9.0\exercicio_4.dll
+C:\Users\127408\Desktop\F_3\Exercicio_22-09-26\exercicio_4\bin\Debug\net9.0\exercicio_4.pdb
+C:\Users\127408\Desktop\F_3\Exercicio_22-09-26\exercicio_4\obj\Debug\net9.0\exercicio_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\127408\Desktop\F_3\Exercicio_22-09-26\exercicio_4\obj\Debug\net9.0\exercicio_4.AssemblyInfoInputs.cache
+C:\Users\127408\Desktop\F_3\Exercicio_22-09-26\exercicio_4\obj\Debug\net9.0\exercicio_4.AssemblyInfo.cs
+C:\Users\127408\Desktop\F_3\Exercicio_22-09-26\exercicio_4\obj\Debug\net9.0\exercicio_4.csproj.CoreCompileInputs.cache
+C:\Users\127408\Desktop\F_3\Exercicio_22-09-26\exercicio_4\obj\Debug\net9.0\exercicio_4.sourcelink.json
+C:\Users\127408\Desktop\F_3\Exercicio_22-09-26\exercicio_4\obj\Debug\net9.0\exercicio_4.dll
+C:\Users\127408\Desktop\F_3\Exercicio_22-09-26\exercicio_4\obj\Debug\net9.0\refint\exercicio_4.dll
+C:\Users\127408\Desktop\F_3\Exercicio_22-09-26\exercicio_4\obj\Debug\net9.0\exercicio_4.pdb
+C:\Users\127408\Desktop\F_3\Exercicio_22-09-26\exercicio_4\obj\Debug\net9.0\exercicio_4.genruntimeconfig.cache
+C:\Users\127408\Desktop\F_3\Exercicio_22-09-26\exercicio_4\obj\Debug\net9.0\ref\exercicio_4.dll
